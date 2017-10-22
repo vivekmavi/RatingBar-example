@@ -1,0 +1,2 @@
+# RatingBar-example
+RatingBar example
